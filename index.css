@@ -1,0 +1,111 @@
+nav .collapse{
+    padding-left:25px;
+    height: 60px;
+    background-color: #0e5dae;
+    height: 81px;
+    margin: -8px;
+}
+
+
+nav .navbar-brand{
+    color: aquamarine;
+}
+
+nav img{
+    padding-left: 5px;
+}
+
+nav .left{
+    padding-left: 200px;
+}
+
+nav .btn{
+ color: white;
+ background-color: #0e5dae;
+ border-color: white;
+ line-height: 30px;
+ cursor: pointer;
+ margin: 5px;
+ border: none;
+}
+
+
+nav .btt{
+ color: white;
+ background-color: #0e5dae;
+ border-color: white;
+ line-height: 40px;
+ border-radius: 5px;
+ cursor: pointer;
+ margin: 5px;
+ padding: 0 34px;
+}
+
+
+nav img{
+    height: 34px;
+}
+
+nav span{
+    font-family: muli,sans-serif;
+    color: white;
+    padding: 15px;
+}
+
+nav img{
+    padding-left: 40px;
+}
+
+.img1,.img2{
+
+    overflow: hidden;
+
+}
+.img1 img,.img2 img{
+    transition: 0.09s;
+
+
+}
+
+.img1 img:hover, .img2 img:hover{
+
+    transform: scale(1.1);
+}
+
+body h2{
+    margin-top: 50px;
+    font-size: 40px;
+    color: #0e5dae;
+    font-weight: 700;
+    margin-bottom: 30px;
+    font-weight: 200;
+    letter-spacing: 1px;
+    font-weight: bolder;
+    padding-left: 165px;
+}
+
+.politics{
+    line-height: 28px;
+    border-radius: 3px;
+    padding: 0 15px;
+    font-weight: 700;
+    font-size: .7rem;
+    background-color: #de2426;
+    color: #fff;
+    display: inline-block;
+    margin-bottom: 15px;
+    position: absolute;
+}
+
+.grid-container{
+    position: relative;
+}
+
+.politics{
+    top: 198px;
+    left: 225px;
+}
+
+.US{
+    position: relative;
+}
